@@ -106,7 +106,7 @@ aside {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* condesned the images into a subsection class that applies all css modifications */
 .subsection {
   margin-bottom: 20px;
   padding: 50px;
